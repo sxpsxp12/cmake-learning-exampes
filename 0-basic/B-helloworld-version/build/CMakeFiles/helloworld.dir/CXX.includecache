@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/main.cpp
+iostream
+-
+version.h
+/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/version.h
+
+version.h
+
