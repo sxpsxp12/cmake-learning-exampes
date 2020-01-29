@@ -1,5 +1,0 @@
-/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/build/CMakeFiles/rebuild_cache.dir
-/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/build/CMakeFiles/edit_cache.dir
-/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/build/CMakeFiles/helloworld.dir
-/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/build/CMakeFiles/package_source.dir
-/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/build/CMakeFiles/package.dir

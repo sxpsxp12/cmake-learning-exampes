@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/build",
-  "command": "/usr/bin/g++-7   -I/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/build  -g   -o CMakeFiles/helloworld.dir/main.cpp.o -c /home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/main.cpp",
-  "file": "/home/songxp/program/cmake-learning-exampes/0-basic/B-helloworld-version/main.cpp"
-}
-]
