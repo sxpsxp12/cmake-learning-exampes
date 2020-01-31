@@ -1,0 +1,2 @@
+#cmakedefine HAVE_LOG
+#cmakedefine HAVE_EXP
